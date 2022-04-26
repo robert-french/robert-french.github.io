@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kristen McCormack"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate, Public Policy"
+  bio              : "Ph.D. Candidate, Public Policy, Harvard University"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=xPSay4MAAAAJ&hl=en"
+  email            : "malito:kmccormack@g.harvard.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kristenmccormack"
   orcid            : 
   pinterest        :
   soundcloud       :
