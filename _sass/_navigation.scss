@@ -144,12 +144,6 @@
       border-bottom-right-radius: 0;
     }
 
-	&:second-child {
-	  margin-left: -20px;	
-      border-top-right-radius: 0;
-      border-bottom-right-radius: 0;
-    }
-
     &:last-child {
       margin-left: -1px;
       border-top-left-radius: 0;
@@ -222,6 +216,12 @@
         }
       }
 
+      &:second-child {
+        a {
+          margin-left: 10px;
+        }
+	  }
+	  
       &:last-child {
         a {
           margin-right: 0;
