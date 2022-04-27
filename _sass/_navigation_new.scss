@@ -210,11 +210,16 @@
 
       &:first-child {
         font-weight: bold;
-
+		
         a {
-          margin-left:  10px;
+          margin-left:  5px;
         }
       }
+
+      &:second-child {
+        a {
+          margin-left: 20px;
+        }
 
       &:last-child {
         a {
