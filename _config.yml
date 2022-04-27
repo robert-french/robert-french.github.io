@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kristen McCormack"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Kristen McCormack"
 description              : &description "personal description"
 url                      : https://kristenmccormack.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kristen McCormack"
+  name             : ""
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate, Public Policy, Harvard University"
   location         : 
