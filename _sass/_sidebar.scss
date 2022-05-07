@@ -132,12 +132,30 @@
 
 .author__connect {
   margin: 0;
-  
+  vertical-align: middle;
+  font-family: $sans-serif;
+  z-index: 10;
+  cursor: pointer;
+
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
+
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    display: block;
+  }
+
+  button {
+    margin-bottom: 0;
+
+    @include breakpoint($large) {
+      display: none;
+    }
   }
 }
+
 .author__urls-wrapper {
   margin: 0;
   vertical-align: middle;
