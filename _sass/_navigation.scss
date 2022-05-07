@@ -20,12 +20,14 @@
           animation-delay: 0.30s;
 
   @include breakpoint($large) {
-    padding-left: 1em;
+    @include span(2 of 12);
+	padding-left: 1em;
     padding-right: 1em;
   }
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    @include span(2 of 12);
+	max-width: $x-large;
   }
 
   ol {
