@@ -130,6 +130,14 @@
   }
 }
 
+.author__connect {
+  margin: 0;
+  
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
 .author__urls-wrapper {
   margin: 0;
   vertical-align: middle;
