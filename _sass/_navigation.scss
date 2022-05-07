@@ -210,6 +210,9 @@
 
       &:first-child {
         font-weight: bold;
+		a {
+          margin-left:  10px;
+        }
       }
 	  
 	  @include breakpoint($large) {
@@ -219,12 +222,6 @@
 		  margin-right: 30px;
         }
       }
-	  }
-	  
-	  &:nth-child(2) {
-        a {
-          margin-left: -200px;
-        }
 	  }
 	  
 	  @include breakpoint($large) {
