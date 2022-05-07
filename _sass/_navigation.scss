@@ -20,14 +20,12 @@
           animation-delay: 0.30s;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
 	padding-left: 1em;
     padding-right: 1em;
   }
 
   @include breakpoint($x-large) {
-    @include span(2 of 12);
-	max-width: $x-large;
+    max-width: $x-large;
   }
 
   ol {
@@ -218,11 +216,13 @@
 		  margin-right: 30px;
         }
       }
-
+	
+	  @include breakpoint($medium) {
       &:nth-child(2) {
         a {
           margin-left: 190px;
         }
+	  }
 	  }
 	  
       &:last-child {
