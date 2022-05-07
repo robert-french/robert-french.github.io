@@ -130,32 +130,6 @@
   }
 }
 
-.author__connect {
-  margin: 0;
-  vertical-align: middle;
-  font-family: $sans-serif;
-  z-index: 10;
-  cursor: pointer;
-
-  li:last-child {
-    a {
-      margin-bottom: 0;
-    }
-  }
-
-  @include breakpoint($large) {
-    display: block;
-  }
-
-  button {
-    margin-bottom: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
-}
-
 .author__urls {
   display: none;
   position: absolute;
