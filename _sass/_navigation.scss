@@ -217,7 +217,7 @@
         }
       }
 	
-	  @include breakpoint($medium) {
+	  @include breakpoint($x-large) {
       &:nth-child(2) {
         a {
           margin-left: 190px;
