@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-[The price of biodiesel RINs and economic fundamentals.](https://www.nber.org/papers/w25341) 2020. (with Scott H. Irwin and James H. Stock). American Journal of Agricultural Economics.  <details>
+[The price of biodiesel RINs and economic fundamentals.](https://www.nber.org/papers/w25341) 2020. (with Scott H. Irwin and James H. Stock). American Journal of Agricultural Economics.  
+\vspace{10em}
+<details>
     <summary>Abstract</summary>
     The D4 RIN is the tradable compliance certificate for the biomass-based diesel (BBD) mandate in the renewable fuel standard (RFS). Understanding the price dynamics of the D4 RIN is important for understanding the RFS because its price sets a ceiling on the ethanol RIN (D6) and because some observers have suggested that RIN price fluctuations are too large to be explained by economic theory. We use option pricing theory to develop a model of the D4 RIN in terms of its economic fundamentals: the spread between the price of biodiesel and petroleum diesel and the status of the biodiesel blenders’ tax credit. The resulting D4 fundamental price closely tracks actual D4 prices. We conclude that RIN price volatility arises because of the design of the RFS and intrinsic features of the U.S. fuel supply system.
 </details>
