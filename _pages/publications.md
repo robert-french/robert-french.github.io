@@ -9,9 +9,9 @@ author_profile: true
 
 [The price of biodiesel RINs and economic fundamentals.](https://www.nber.org/papers/w25341) 2020. (with Scott H. Irwin and James H. Stock). American Journal of Agricultural Economics. <a href="/files/AJAE_2020.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25">
  
-<p style="margin-top: -20px;"> Discussion (Bruce A. Babcock) <a href="/files/AJAE_2020_discussion.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25"> </p>
+Discussion (Bruce A. Babcock) <a href="/files/AJAE_2020_discussion.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25">
 
-<p style="margin-top: -20px;">Response <a href="/files/AJAE_2020_response.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25"> </p>
+Response <a href="/files/AJAE_2020_response.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25">
 <details style="margin-top: -20px;">
     <summary>Abstract</summary>
     The D4 RIN is the tradable compliance certificate for the biomass-based diesel (BBD) mandate in the renewable fuel standard (RFS). Understanding the price dynamics of the D4 RIN is important for understanding the RFS because its price sets a ceiling on the ethanol RIN (D6) and because some observers have suggested that RIN price fluctuations are too large to be explained by economic theory. We use option pricing theory to develop a model of the D4 RIN in terms of its economic fundamentals: the spread between the price of biodiesel and petroleum diesel and the status of the biodiesel blenders’ tax credit. The resulting D4 fundamental price closely tracks actual D4 prices. We conclude that RIN price volatility arises because of the design of the RFS and intrinsic features of the U.S. fuel supply system.
