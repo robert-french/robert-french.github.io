@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color:#4189b4">Education under extremes: Temperature, student absenteeism, and disciplinary infractions.</span> 2022. Job Market Paper (Draft Coming Soon!)
+<span style="color:#4189b4">Education under extremes: Temperature, student absenteeism, and disciplinary infractions.</span> 2022. Job Market Paper. (Draft Coming Soon!)
 
 [The price of biodiesel RINs and economic fundamentals.](https://onlinelibrary.wiley.com/doi/full/10.1002/ajae.12014) 2020. (with Scott H. Irwin and James H. Stock). American Journal of Agricultural Economics. <a href="/files/AJAE_2020.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25"></a> Discussion (Bruce A. Babcock) <a href="/files/AJAE_2020_discussion.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25"></a> Response <a href="/files/AJAE_2020_response.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25"></a>
 <details style="margin-top: -20px;">
