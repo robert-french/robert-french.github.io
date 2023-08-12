@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kristen McCormack"
+title                    : "Robert French"
 title1                   : " "
 title_separator          : "-"
-name                     : &name "Kristen McCormack"
+name                     : &name "Robert French"
 description              : &description "personal description"
-url                      : https://kristenmccormack.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://robert-french.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kristenmccormack/kristenmccormack.github.io"
+repository               : "robert-french/robert-french.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kristen McCormack"
+  name             : "Robert French"
   avatar           : "prof_square.jpeg"
-  bio              : "Economist, Office of Tax Analysis, U.S. Treasury"
+  bio              : "PhD Candidate, Public Policy, Harvard University"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xPSay4MAAAAJ&hl=en"
-  email            : "kmccormack@g.harvard.edu"
+  googlescholar    : 
+  email            : "robertfrench@g.harvard.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "kristenmccormack"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
