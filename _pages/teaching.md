@@ -7,19 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-**Economics of Climate Change and Environmental Policy**  
-Professor: Robert Stavins  
-Schools: Harvard Faculty of Arts & Sciences and Harvard Kennedy School  
-My role: Head Teaching Fellow (Spring 2021), Teaching Fellow (Spring 2020)  
+**HKS PhD Micro Theory I**  
+Professor: Arda Gitmez  
+My role: Head Teaching Fellow (Fall 2021)
   
-**Resources, Incentives, and Choices I: Markets and Market Failures**  
-Professor: Pinar Dogan, Janina Matuszeski, and Marcella Alsan  
-School: Harvard Kennedy School  
-My role: Teaching Fellow (Fall 2020)  
+**HKS PhD Micro Theory II**  
+Professors: Pino Lopomo and Chris Avery    
+My role: Head Teaching Fellow (Spring 2020, 2021, 2022)  
   
-**American Economic Policy**  
-Professors: Jeffrey Liebman and Lawrence Summers  
-Schools: Harvard Faculty of Arts & Sciences and Harvard Kennedy School  
-My role: Teaching Fellow (Fall 2019)  
+**Intermediate Micro Theory: Advanced**  
+Professor: Edward Glaeser
+My role: Head Teaching Fellow (Fall 2019, 2020)  
   
 *I always welcome contact from former students. Please feel free to be in touch!*  
