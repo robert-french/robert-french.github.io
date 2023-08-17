@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+*Job Market Paper*
+
 Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents. (with Ashvin Gandhi and Valentine Gilbert) 2023. Job Market Paper. 
 <details style="margin-top: -20px;">
     <summary>Abstract</summary>
