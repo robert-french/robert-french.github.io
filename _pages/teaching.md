@@ -16,7 +16,7 @@ Professors: Pino Lopomo and Chris Avery
 My role: Head Teaching Fellow (Spring 2020, 2021, 2022)  
   
 **Intermediate Micro Theory: Advanced**  
-Professor: Edward Glaeser
+Professor: Edward Glaeser\
 My role: Head Teaching Fellow (Fall 2019, 2020)  
   
 *I always welcome contact from former students. Please feel free to be in touch!*  
