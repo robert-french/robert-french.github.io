@@ -12,7 +12,7 @@ author_profile: true
 Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents. (with Ashvin Gandhi and Valentine Gilbert) 2023. 
 <details style="margin-top: -20px;">
     <summary>Abstract</summary>
-	Coming soon.
+	Coming soon.  
 </details>
 
 # Working Papers
