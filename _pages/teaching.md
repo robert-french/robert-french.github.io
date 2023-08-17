@@ -12,7 +12,7 @@ Professor: Arda Gitmez
 My role: Head Teaching Fellow (Fall 2021)
   
 **HKS PhD Micro Theory II**  
-Professors: Pino Lopomo and Chris Avery    
+Professors: Chris Avery and Pino Lopomo     
 My role: Head Teaching Fellow (Spring 2020, 2021, 2022)  
   
 **Intermediate Micro Theory: Advanced**  
