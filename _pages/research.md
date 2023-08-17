@@ -15,6 +15,8 @@ Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborho
 	Coming soon.  
 </details>
 
+*** 
+
 # Working Papers
 
 Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston. 2023.
@@ -28,6 +30,8 @@ Understanding the Welfare Implications of Vacancy Chains. (with Valentine Gilber
     <summary>Abstract</summary>
 	Coming soon.
 </details>
+
+*** 
 
 # Publications
 
