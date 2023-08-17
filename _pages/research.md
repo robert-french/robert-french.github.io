@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-# Job Market Paper
+## Job Market Paper
 
 Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents. (with Ashvin Gandhi and Valentine Gilbert) 2023. 
 <details style="margin-top: -20px;">
@@ -17,7 +17,7 @@ Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborho
 
 *** 
 
-# Working Papers
+## Working Papers
 
 Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston. 2023.
 <details style="margin-top: -20px;">
@@ -33,7 +33,7 @@ Understanding the Welfare Implications of Vacancy Chains. (with Valentine Gilber
 
 *** 
 
-# Publications
+## Publications
 
 [Behavioral barriers transitioning to college](https://www.sciencedirect.com/science/article/pii/S0927537117300556) 2017. (with Philip Oreopoulos). Labour Economics <a href="/files/LE_2017.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25"></a>. 
 <details style="margin-top: -20px;">
