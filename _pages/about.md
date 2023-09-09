@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style ="font-size:.9em;"> I am a Ph.D. candidate in Public Policy (Economics Track) at the Harvard Kennedy School. **I am on the 2023-2024 job market.**  </span>  
+<span style ="font-size:.9em;"> I am a Ph.D. candidate in Public Policy (Economics Track) at the Harvard Kennedy School. **I am on the 2023-2024 job market.**  </span>   
 
 <span style ="font-size:.9em;"> As an applied microeconomist, I study public and urban economics. My research focuses on the consequences of urban sorting for spatial inequality and the welfare of low-income households. My job market paper combines large-scale administrative census data and tools from empirical industrial organization to understand the impact of gentrification on low-income incumbent residents.  </span>   
 
