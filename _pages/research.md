@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "Research"
+title: 
 permalink: /research/
 author_profile: true
 ---
+
+## Job Market Paper
 
 **Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents** (with Ashvin Gandhi and Valentine Gilbert) 2023. *Job Market Paper*<br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [Draft][jmp] ]</small>
 
@@ -12,6 +14,8 @@ Coming soon.
 </small><br><br/></div>
 
 [jmp]:{{ site.baseurl }}{% link files/jmp.pdf %}
+
+## Working Papers
 
 **Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**. 2023. <br/> <small>[ <a href="#/" onclick="visib('SvS')">Abstract</a> | [Draft][SvS] ]</small>
 
@@ -29,6 +33,8 @@ Coming soon.
 
 [VCs]:{{ site.baseurl }}{% link files/VCs.pdf %}
 
+## Publications
+
 **Behavioral barriers transitioning to college**  (with Philip Oreopoulos). Labour Economics, 2017. <br/>
 <small>[ <a href="#/" onclick="visib('BBs')">Abstract</a> | [PDF][BBs] | [LE][BBs_LE] ]</small>
 
@@ -41,9 +47,9 @@ This paper presents a review of mostly experimental evidence demonstrating the p
 [BBs_LE]: https://www.sciencedirect.com/science/article/pii/S0927537117300556
 
 **Applying behavioural economics to public policy in Canada**  (with Philip Oreopoulos). Canadian Journal of Economics, 2017. <br/>
-<small>[ <a href="#/" onclick="visib('BBs')">Abstract</a> | [PDF][ABE] | [CJE][ABE_CJE] | [VOX EU][ABE_VOX]]</small>
+<small>[ <a href="#/" onclick="visib('ABE')">Abstract</a> | [PDF][ABE] | [CJE][ABE_CJE] | [VOX EU][ABE_VOX]]</small>
 
-<div id="BBs" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="ABE" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Behavioural economics incorporates ideas from psychology, sociology and neuroscience to better predict how individuals make long-term decisions. Often the ideas adopted include present or inattention bias, both potentially leading to suboptimal outcomes. But these models also point to opportunities for effective, low-cost government policies that can have meaningful positive effects on people's long-term well-being. The last decade has been marked by a growing interest from governments the world over in using behavioural economics to inform policy decisions. This is true of Canada as well. In this paper we discuss the increasingly important role behavioural economics plays in Canadian public policy. We first contextualize government policies that have incorporated insights from behavioural economics by outlining a collection of models of intertemporal choice. We then present examples of public policy initiatives that are based upon findings in the field, placing particular emphasis on Canadian initiatives. We also document future opportunities, challenges and limitations.
 </small><br><br/></div>
 
