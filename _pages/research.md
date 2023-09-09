@@ -1,11 +1,9 @@
 ---
 layout: single
-title: ""
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-## Working Papers
 
 **Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents** (with Ashvin Gandhi and Valentine Gilbert) 2023. *Job Market Paper*<br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [Draft][jmp] ]</small>
 
@@ -30,8 +28,6 @@ Coming soon.
 </small><br><br/></div>
 
 [VCs]:{{ site.baseurl }}{% link files/VCs.pdf %}
-
-## Publications
 
 **Behavioral barriers transitioning to college**  (with Philip Oreopoulos). Labour Economics, 2017. <br/>
 <small>[ <a href="#/" onclick="visib('BBs')">Abstract</a> | [PDF][BBs] | [LE][BBs_LE] ]</small>
