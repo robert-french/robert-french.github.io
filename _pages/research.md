@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-
+<span style ="font-size:.9em;"> 
 
 ## Job Market Paper
 
@@ -46,3 +46,5 @@ Understanding the Welfare Implications of Vacancy Chains. (with Valentine Gilber
     <summary>Abstract</summary>
 	Behavioural economics incorporates ideas from psychology, sociology and neuroscience to better predict how individuals make long-term decisions. Often the ideas adopted include present or inattention bias, both potentially leading to suboptimal outcomes. But these models also point to opportunities for effective, low-cost government policies that can have meaningful positive effects on people's long-term well-being. The last decade has been marked by a growing interest from governments the world over in using behavioural economics to inform policy decisions. This is true of Canada as well. In this paper we discuss the increasingly important role behavioural economics plays in Canadian public policy. We first contextualize government policies that have incorporated insights from behavioural economics by outlining a collection of models of intertemporal choice. We then present examples of public policy initiatives that are based upon findings in the field, placing particular emphasis on Canadian initiatives. We also document future opportunities, challenges and limitations.
 </details>
+
+</span>
