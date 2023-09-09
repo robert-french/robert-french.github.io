@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Robert French"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
