@@ -14,4 +14,4 @@ I am an applied microeconomist with research interests in Public and Urban Econo
 
 Prior to my doctoral studies, I obtained a B.A. and M.A. in economics from the University of Toronto.  
 
-My research is supported by the [Horowitz Foundation for Social Policy](https://www.horowitz-foundation.org/) as well as the [Malcom Wiener Center for Social Policy](https://www.hks.harvard.edu/centers/wiener).  
+My research is supported by the [Horowitz Foundation for Social Policy](https://www.horowitz-foundation.org/) as well as the [Malcolm Wiener Center for Social Policy](https://www.hks.harvard.edu/centers/wiener).  
