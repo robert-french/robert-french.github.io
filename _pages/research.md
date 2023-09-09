@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Job Market Paper
+## Working Papers
 
 **Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents** (with Ashvin Gandhi and Valentine Gilbert) 2023. *Job Market Paper*<br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [Draft][jmp] ]</small>
 
@@ -13,9 +13,7 @@ author_profile: true
 Coming soon.
 </small><br><br/></div>
 
-[jmp]:{{ site.baseurl }}{% link files/jmp.pdf %}
-
-## Working Papers
+[jmp]:{{ site.baseurl }}{% link files/jmp.pdf %} 
 
 **Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**. 2023. <br/> <small>[ <a href="#/" onclick="visib('SvS')">Abstract</a> | [Draft][SvS] ]</small>
 
