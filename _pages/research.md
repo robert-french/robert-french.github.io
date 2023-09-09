@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents** (with Ashvin Gandhi and Valentine Gilbert) 2023. *Job Market Paper*<br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> ]</small>
+**Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents** (with Ashvin Gandhi and Valentine Gilbert) 2023. <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> ]</small>
 
 <div id="jmp" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Coming soon.
