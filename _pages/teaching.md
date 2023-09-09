@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<span style ="font-size:.9em;"> 
-
 **HKS PhD Micro Theory I**  
 Professor: Arda Gitmez  
 My role: Head Teaching Fellow (Fall 2021)
@@ -22,4 +20,3 @@ Professor: Edward Glaeser\
 My role: Head Teaching Fellow (Fall 2019, 2020)  
   
 *I always welcome contact from former students. Please feel free to be in touch!*  
-</span>
