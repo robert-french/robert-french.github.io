@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+## Robert French
+
 <span style ="font-size:.9em;"> I am a Ph.D. candidate in Public Policy (Economics Track) at the Harvard Kennedy School and **on the 2023-2024 job market.**  </span>  
 
 <span style ="font-size:.9em;"> As an applied microeconomist, my research centers on Public and Urban Economics. I study the consequences of urban sorting for spatial inequality and the welfare of low-income households. My job market paper combines large-scale administrative census data and tools from empirical industrial organization to understand the consequences of gentrification for low-income incumbent residents.  </span>   
