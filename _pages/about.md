@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth-year PhD candidate in Public Policy at Harvard University. Prior to my doctoral studies I received a M.A. and B.A. in economics from the University of Toronto. My research interests are in public and urban economics. 
+I am a Ph.D. candidate in Public Policy (Economics Track) at the Harvard Kennedy School. **I am also on the 2023-24 job market.**  
+
+I am an applied microeconomist with research interests in Public and Urban Economics. My research tries to understand the consequences of urban sorting for spatial inequality and the welfare of low-income households. 
+
+My job market paper combines large-scale administrative census data and tools from empirical industrial organization to understand the consequences of gentrification for low-income incumbent residents. Other research combines similar data and empirical tools to understand the optimal design of urban economic policy to promote upward mobility among disadvantaged children. I am also a co-author on Valentine Gilbert’s job market paper, which seeks to understand the downstream consequences of new urban housing supply.
