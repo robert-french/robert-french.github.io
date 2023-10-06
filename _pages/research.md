@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Job Market Paper
+<span style ="font-size:.12em;">  **Job Market Paper** </span>
 
-**Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents** (with Ashvin Gandhi and Valentine Gilbert) 2023. <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> ]</small>
+<span style ="font-size:.9em;"> **Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents** (with Ashvin Gandhi and Valentine Gilbert) 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> ]</small>
 
 <div id="jmp" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Draft and abstract will be posted in early November.
@@ -15,9 +15,9 @@ Draft and abstract will be posted in early November.
 
 [jmp]:{{ site.baseurl }}{% link files/jmp.pdf %} 
 
-## Working Papers
+<span style ="font-size:.12em;">**Working Papers** </span>
 
-**Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**. 2023. <br/> <small>[ <a href="#/" onclick="visib('SvS')">Abstract</a> ]</small>
+<span style ="font-size:.9em;">**Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**. 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('SvS')">Abstract</a> ]</small>
 
 <div id="SvS" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Abstract will be posted in early November. Draft will be posted shortly thereafter.
@@ -25,17 +25,17 @@ Abstract will be posted in early November. Draft will be posted shortly thereaft
 
 [SvS]:{{ site.baseurl }}{% link files/SvS.pdf %}
 
-**Understanding the Welfare Implications of Vacancy Chains** (with Valentine Gilbert) 2023. *Valentine's Job Market Paper* <br/> <small>[ <a href="#/" onclick="visib('VCs')">Abstract</a> ]</small>
+<span style ="font-size:.9em;">**Understanding the Welfare Implications of Vacancy Chains** (with Valentine Gilbert) 2023. *Valentine's Job Market Paper*</span> <br/> <small>[ <a href="#/" onclick="visib('VCs')">Abstract</a> ]</small>
 
 <div id="VCs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Draft and abstract will be posted soon. 
+<span style ="font-size:.9em;">Draft and abstract will be posted soon.</span> 
 </small><br><br/></div>
 
 [VCs]:{{ site.baseurl }}{% link files/VCs.pdf %}
 
-## Publications
+<span style ="font-size:.9em;"> **Publications** </span>
 
-**Behavioral barriers transitioning to college**  (with Philip Oreopoulos). Labour Economics, 2017. <br/>
+<span style ="font-size:.9em;">**Behavioral barriers transitioning to college**  (with Philip Oreopoulos). Labour Economics, 2017.</span> <br/>
 <small>[ <a href="#/" onclick="visib('BBs')">Abstract</a> | [PDF][BBs] | [LE][BBs_LE] ]</small>
 
 <div id="BBs" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -46,7 +46,7 @@ This paper presents a review of mostly experimental evidence demonstrating the p
 
 [BBs_LE]: https://www.sciencedirect.com/science/article/pii/S0927537117300556
 
-**Applying behavioural economics to public policy in Canada**  (with Philip Oreopoulos). Canadian Journal of Economics, 2017. <br/>
+<span style ="font-size:.9em;">**Applying behavioural economics to public policy in Canada**  (with Philip Oreopoulos). Canadian Journal of Economics, 2017.</span> <br/>
 <small>[ <a href="#/" onclick="visib('ABE')">Abstract</a> | [PDF][ABE] | [CJE][ABE_CJE] | [VOX EU][ABE_VOX]]</small>
 
 <div id="ABE" style="display: none; text-align: justify; line-height: 1.2" ><small>
