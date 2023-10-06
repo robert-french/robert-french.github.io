@@ -28,7 +28,7 @@ Abstract will be posted in early November. Draft will be posted shortly thereaft
 <span style ="font-size:.9em;">**Understanding the Welfare Implications of Vacancy Chains** (with Valentine Gilbert) 2023. *Valentine's Job Market Paper*</span> <br/> <small>[ <a href="#/" onclick="visib('VCs')">Abstract</a> ]</small>
 
 <div id="VCs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-<span style ="font-size:.9em;">Draft and abstract will be posted soon.</span> 
+Draft and abstract will be posted soon.
 </small><br><br/></div>
 
 [VCs]:{{ site.baseurl }}{% link files/VCs.pdf %}
