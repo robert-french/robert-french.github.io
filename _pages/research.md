@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<span style ="font-size:1.2em;">  **Job Market Paper** </span>
+<u> <span style ="font-size:1.2em;">  **Job Market Paper** </span> </u>
 
 <span style ="font-size:.9em;"> **Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents** (with Ashvin Gandhi and Valentine Gilbert) 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> ]</small>
 
@@ -15,7 +15,7 @@ Draft and abstract will be posted in early November.
 
 [jmp]:{{ site.baseurl }}{% link files/jmp.pdf %} 
 
-<span style ="font-size:1.2em;">**Working Papers** </span>
+<u><span style ="font-size:1.2em;">**Working Papers** </span></u>
 
 <span style ="font-size:.9em;">**Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**. 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('SvS')">Abstract</a> ]</small>
 
@@ -33,7 +33,7 @@ Abstract will be posted in early November. Draft will be posted shortly thereaft
 
 [VCs]:{{ site.baseurl }}{% link files/VCs.pdf %}
 
-<span style ="font-size:1.2em;"> **Publications** </span>
+<u><span style ="font-size:1.2em;"> **Publications** </span></u>
 
 <span style ="font-size:.9em;">**Behavioral barriers transitioning to college**  (with Philip Oreopoulos). Labour Economics, 2017.</span> <br/>
 <small>[ <a href="#/" onclick="visib('BBs')">Abstract</a> | [PDF][BBs] | [LE][BBs_LE] ]</small>
