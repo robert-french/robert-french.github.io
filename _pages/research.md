@@ -10,7 +10,7 @@ author_profile: true
 **Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents** (with Ashvin Gandhi and Valentine Gilbert) 2023. <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> ]</small>
 
 <div id="jmp" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Coming soon.
+Draft and abstract will be posted in early November.
 </small><br><br/></div>
 
 [jmp]:{{ site.baseurl }}{% link files/jmp.pdf %} 
@@ -20,7 +20,7 @@ Coming soon.
 **Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**. 2023. <br/> <small>[ <a href="#/" onclick="visib('SvS')">Abstract</a> ]</small>
 
 <div id="SvS" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Coming soon.
+Abstract will be posted in early November. Draft will be posted shortly thereafter.
 </small><br><br/></div>
 
 [SvS]:{{ site.baseurl }}{% link files/SvS.pdf %}
@@ -28,7 +28,7 @@ Coming soon.
 **Understanding the Welfare Implications of Vacancy Chains** (with Valentine Gilbert) 2023. *Valentine's Job Market Paper* <br/> <small>[ <a href="#/" onclick="visib('VCs')">Abstract</a> ]</small>
 
 <div id="VCs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Coming soon. 
+Draft and abstract will be posted soon. 
 </small><br><br/></div>
 
 [VCs]:{{ site.baseurl }}{% link files/VCs.pdf %}
