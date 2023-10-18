@@ -7,7 +7,7 @@ author_profile: true
 
 <span style ="font-size:1.2em;">  **Job Market Paper** </span>
 
-<span style ="font-size:.9em;"> **Gentrification or Neighborhood Revitalization? The Welfare Impacts of Neighborhood Change on Incumbent Residents** (with Ashvin Gandhi and Valentine Gilbert) 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> ]</small>
+<span style ="font-size:.9em;"> **Quantifying the Welfare Impacts of Neighborhood Change on Incumbent Renters** (with Ashvin Gandhi and Valentine Gilbert) 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> ]</small>
 
 <div id="jmp" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Draft and abstract will be posted in early November.
