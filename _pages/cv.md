@@ -8,11 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Current CV (Updated October, 2023)](/files/French_CV_10_06_2023.pdf)  
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-[](/files/FrenchJMP.pdf)
+[Current CV (Updated October, 2023)](/files/French_CV_10_06_2023.pdf)
