@@ -72,10 +72,3 @@ Behavioural economics incorporates ideas from psychology, sociology and neurosci
 </script>
 
 [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-[](/files/FrenchJMP.pdf)
