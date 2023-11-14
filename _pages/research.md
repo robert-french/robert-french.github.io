@@ -17,10 +17,10 @@ How does gentrification affect the welfare of incumbent residents of low-income 
 
 <span style ="font-size:1.2em;">**Working Papers** </span>
 
-<span style ="font-size:.9em;">**Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**. 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('SvS')">Abstract</a> ]</small>
+<span style ="font-size:.9em;">**Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**. 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('SvS')">Abstract</a> | [Draft Coming Soon][SvS]]</small>
 
 <div id="SvS" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Abstract will be posted in early November. Draft will be posted shortly thereafter.
+This paper considers when policy makers should prioritize providing opportunities for families to leave disadvantaged neighborhoods in Greater Boston and when they should prioritize investing resources in these disadvantaged neighborhoods and their schools. To do so, the paper develops a quantitative spatial general equilibrium model that is amenable to optimal policy analysis for a broad class of spillover functions and agents with heterogeneous preferences. Upon quantifying the model using administrative US Census data on the residential histories of most ACS respondents in Greater Boston, I argue that as the social planner prioritizes the upward mobility of children vis-à-vis parents' utility, optimal policy integrates low-income families into Greater Boston's suburbs. However, given calibrations implying substantial complementarity between school spending and peer composition, school spending in the inner city remains ineffective. Children of parents with strong attachments to the inner city thus stay economically immobile under the optimal welfarist policy. Alternative policies concentrating spending in initially disadvantaged neighborhoods ensure a minimum level of economic mobility for all children, including those of parents with strong attachments to the inner city.
 </small><br><br/></div>
 
 [SvS]:{{ site.baseurl }}{% link files/SvS.pdf %}
@@ -47,7 +47,7 @@ This paper presents a review of mostly experimental evidence demonstrating the p
 [BBs_LE]: https://www.sciencedirect.com/science/article/pii/S0927537117300556
 
 <span style ="font-size:.9em;">**Applying behavioural economics to public policy in Canada**  (with Philip Oreopoulos). Canadian Journal of Economics, 2017.</span> <br/>
-<small>[ <a href="#/" onclick="visib('ABE')">Abstract</a> | [PDF][ABE] | [CJE][ABE_CJE] | [VOX EU][ABE_VOX]]</small>
+<small>[ <a href="#/" onclick="visib('ABE')">Abstract</a> | [PDF][ABE] | [CJE][ABE_CJE] | [VOX EU][ABE_VOX] ]</small>
 
 <div id="ABE" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Behavioural economics incorporates ideas from psychology, sociology and neuroscience to better predict how individuals make long-term decisions. Often the ideas adopted include present or inattention bias, both potentially leading to suboptimal outcomes. But these models also point to opportunities for effective, low-cost government policies that can have meaningful positive effects on people's long-term well-being. The last decade has been marked by a growing interest from governments the world over in using behavioural economics to inform policy decisions. This is true of Canada as well. In this paper we discuss the increasingly important role behavioural economics plays in Canadian public policy. We first contextualize government policies that have incorporated insights from behavioural economics by outlining a collection of models of intertemporal choice. We then present examples of public policy initiatives that are based upon findings in the field, placing particular emphasis on Canadian initiatives. We also document future opportunities, challenges and limitations.
