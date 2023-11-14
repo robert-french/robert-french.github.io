@@ -7,13 +7,13 @@ author_profile: true
 
 <span style ="font-size:1.2em;">  **Job Market Paper** </span>
 
-<span style ="font-size:.9em;"> **Quantifying the Welfare Impacts of Neighborhood Change on Incumbent Renters** (with Ashvin Gandhi and Valentine Gilbert) 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> ]</small>
+<span style ="font-size:.9em;"> **Quantifying the Welfare Impacts of Neighborhood Change on Incumbent Renters** (with Ashvin Gandhi and Valentine Gilbert) 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [PDF][JMP] ]</small>
 
 <div id="jmp" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Draft and abstract will be posted in early November.
+How does gentrification affect the welfare of incumbent residents of low-income neighborhoods? This paper investigates how low-income renters of gentrifying neighborhoods fare relative to renters of neighborhoods in the same metro that stay poor.  We link person-level administrative US Census data to construct an annual panel that tracks the earnings, workplaces, and residential addresses of over 1 million low-income urban renter households through 2000-2019. We use this data to estimate a dynamic structural model of residential and workplace choice. We identify our model with skill-specific labor demand shocks to potential commuting destinations, constructed using geocoded establishment-level business data. We find that – because low-income renters are highly mobile – gentrification affected incumbent renters primarily by changing the characteristics of other neighborhoods in their choice sets. Our results imply that where low-income renters lived within US metros mattered comparatively less than which US metro they lived in. 
 </small><br><br/></div>
 
-[jmp]:{{ site.baseurl }}{% link files/jmp.pdf %} 
+[JMP]:{{ site.baseurl }}{% link files/FrenchJMP.pdf %} 
 
 <span style ="font-size:1.2em;">**Working Papers** </span>
 
