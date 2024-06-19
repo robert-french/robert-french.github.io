@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<span style="font-size:1.2em;">**Working Papers and Work in Progress**</span>
+<span style="font-size:1.4em;">**Working Papers and Work in Progress**</span>
 
 <span style="font-size:.9em;">**Quantifying the Welfare Impacts of Gentrification on Incumbent Renters (Job Market Paper)**</span>
 <br/>
@@ -42,7 +42,7 @@ This paper considers when policy makers should prioritize providing opportunitie
 <span style="font-size:.9em; margin-top: -5px;">With [Valentine Gilbert](https://valentinegilbert.github.io/). 2024.</span>
 <br/>
 
-<span style="font-size:1.2em;">**Publications**</span>
+<span style="font-size:1.4em;">**Publications**</span>
 
 <span style="font-size:.9em;">**Behavioral barriers transitioning to college** (with [Philip Oreopoulos](https://oreopoulos.faculty.economics.utoronto.ca/)). Labour Economics, 2017.</span>
 <br/>
