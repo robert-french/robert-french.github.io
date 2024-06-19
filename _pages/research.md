@@ -17,7 +17,7 @@ How does gentrification affect the welfare of incumbent residents of low-income 
   <br><br/>
 </div>
 
-<span style="font-size:.9em;">**[Suburban Housing and Urban Affordability: Evidence from Residential Vacancy Chains](https://valentinegilbert.github.io/files/gilbert_jmp.pdf)**</span>
+<span style="font-size:.9em; margin-top: 2px;">**[Suburban Housing and Urban Affordability: Evidence from Residential Vacancy Chains](https://valentinegilbert.github.io/files/gilbert_jmp.pdf)**</span>
 <br/>
 <span style="font-size:.9em; margin-top: -5px;">With [Valentine Gilbert](https://valentinegilbert.github.io/). 2023. Awarded *Best Junior Paper Submitted for the 2024 AREUEA National Conference*.</span>
 <br/>
