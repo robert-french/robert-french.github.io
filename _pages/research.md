@@ -12,7 +12,7 @@ author_profile: true
 <span style="font-size:.9em; margin-top: -5px;">With [Ashvin Gandhi](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/gandhi) and [Valentine Gilbert](https://valentinegilbert.github.io/). 2023. Awarded *Best Paper on Housing by a Doctoral Student*, Joint Center for Housing Studies.</span>
 <br/>
 
-<div style="font-size: .9em; line-height: 1.3;">
+<div style="font-size: .9em; line-height: 1.4;">
 How does gentrification affect the welfare of incumbent residents of low-income neighborhoods? This paper investigates how low-income renters of gentrifying neighborhoods fare relative to renters of neighborhoods in the same metro that stay poor. We link person-level administrative US Census data to construct an annual panel that tracks the earnings, workplaces, and residential addresses of over 1 million low-income urban renter households through 2000-2019. We use this data to estimate a dynamic structural model of residential and workplace choice. We identify our model with skill-specific labor demand shocks to potential commuting destinations, constructed using geocoded establishment-level business data. We find that – because low-income renters are highly mobile – gentrification affected incumbent renters primarily by changing the characteristics of other neighborhoods in their choice sets. Our results imply that where low-income renters lived within US metros mattered comparatively less than which US metro they lived in. 
   <br><br/>
 </div>
@@ -22,20 +22,20 @@ How does gentrification affect the welfare of incumbent residents of low-income 
 <span style="font-size:.9em; margin-top: -5px;">With [Valentine Gilbert](https://valentinegilbert.github.io/). 2023. Awarded *Best Junior Paper Submitted for the 2024 AREUEA National Conference*.</span>
 <br/>
 
-<span style="font-size:.7em;">
+<div style="font-size: .9em; line-height: 1.4;">
 This paper investigates the role that residential vacancy chains – the sequence of moves across housing units initiated by the construction of a new housing unit – play in linking different housing submarkets. We focus in particular on how the market for suburban single-family homes affects the market for dense urban housing in multifamily buildings. Using administrative data on the residential histories of the U.S. population, we describe the distribution of vacancies created by different kinds of new housing. A key finding is that vacancy chains end quickly, with 90% ending within three rounds of moves. We then conduct a simulation exercise to understand what the observed patterns of vacancy chains imply about the welfare and price effects of new housing supply. We show that the geographic distribution of moves created by vacancy chains is correlated with the geographic distribution of welfare and price effects, and that the number of vacancies created in a neighborhood is as strong a predictor of price effects as are model-derived crossneighborhood substitution effects. These results, along with our descriptive results, imply that the incidence of the benefits of new housing depend strongly on what kind of housing is built and where.
-<br><br/>
-</span>
+  <br><br/>
+</div>
 
 <span style="font-size:.9em;">**Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**</span>
 <br/>
 <span style="font-size:.9em; margin-top: -5px;">2023.</span>
 <br/>
 
-<span style="font-size:.7em;">
+<div style="font-size: .9em; line-height: 1.4;">
 This paper considers when policy makers should prioritize providing opportunities for families to leave disadvantaged neighborhoods in Greater Boston and when they should prioritize investing resources in these disadvantaged neighborhoods and their schools. To do so, the paper develops a quantitative spatial general equilibrium model that is amenable to optimal policy analysis for a broad class of spillover functions and agents with heterogeneous preferences. Upon quantifying the model using administrative US Census data on the residential histories of most ACS respondents in Greater Boston, I argue that as the social planner prioritizes the upward mobility of children vis-à-vis parents' utility, optimal policy integrates low-income families into Greater Boston's suburbs. However, given calibrations implying substantial complementarity between school spending and peer composition, school spending in the inner city remains ineffective. Children of parents with strong attachments to the inner city thus stay economically immobile under the optimal welfarist policy. Alternative policies concentrating spending in initially disadvantaged neighborhoods ensure a minimum level of economic mobility for all children, including those of parents with strong attachments to the inner city.
-<br><br/>
-</span>
+  <br><br/>
+</div>
 
 <span style="font-size:.9em;">**Barriers to Racial Residential Integration**</span>
 <br/>
