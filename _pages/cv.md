@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-[CV - test](/files/FrenchCV.pdf)
+This page is redundant. I edit the link to the CV in _data/navigation.yml 
