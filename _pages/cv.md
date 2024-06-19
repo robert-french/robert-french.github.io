@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 [CV - test](/files/FrenchCV.pdf)
