@@ -6,11 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
-test2
-<span style ="font-size:.9em;">**Harvard Kennedy School**</span>  
 
-<span style ="font-size:.9em;margin-top: -20px;">*PhD Micro Theory I*</span>  
-<span style ="font-size:.9em;">Head Teaching Fellow (Fall 2021)</span>  
+<span style="font-size: .9em;">**Harvard Kennedy School**</span><br/>
+<span style="font-size: .9em; display: block; margin-top: -5px; padding-top: 0;">*PhD Micro Theory I*</span><br/>
+<span style="font-size: .9em;">Head Teaching Fellow (Fall 2021)</span>
   
 <span style ="font-size:.9em;">*PhD Micro Theory II*</span>  
 <span style ="font-size:.9em;">Head Teaching Fellow (Spring 2020, 2021, 2022, 2024)</span>    
