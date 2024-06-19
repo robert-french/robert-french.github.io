@@ -12,10 +12,8 @@ author_profile: true
 <span style="font-size:.9em; margin-top: -5px;">With [Ashvin Gandhi](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/gandhi) and [Valentine Gilbert](https://valentinegilbert.github.io/). 2023. Awarded *Best Paper on Housing by a Doctoral Student*, Joint Center for Housing Studies.</span>
 <br/>
 
-<span style="font-size:.7em;">
-  <p style="line-height: 0.9; margin: 0;">
+<span style="font-size:.7em;line-height: 0.9; margin: 0;">
 How does gentrification affect the welfare of incumbent residents of low-income neighborhoods? This paper investigates how low-income renters of gentrifying neighborhoods fare relative to renters of neighborhoods in the same metro that stay poor. We link person-level administrative US Census data to construct an annual panel that tracks the earnings, workplaces, and residential addresses of over 1 million low-income urban renter households through 2000-2019. We use this data to estimate a dynamic structural model of residential and workplace choice. We identify our model with skill-specific labor demand shocks to potential commuting destinations, constructed using geocoded establishment-level business data. We find that – because low-income renters are highly mobile – gentrification affected incumbent renters primarily by changing the characteristics of other neighborhoods in their choice sets. Our results imply that where low-income renters lived within US metros mattered comparatively less than which US metro they lived in. 
-  </p>
   <br><br/>
 </span>
 
@@ -31,7 +29,7 @@ This paper investigates the role that residential vacancy chains – the sequenc
 
 <span style="font-size:.9em;">**Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**</span>
 <br/>
-<span style="font-size:.9em; margin-top: -5px;">With [Valentine Gilbert](https://valentinegilbert.github.io/).</span>
+<span style="font-size:.9em; margin-top: -5px;">2023.</span>
 <br/>
 
 <span style="font-size:.7em;">
@@ -41,7 +39,7 @@ This paper considers when policy makers should prioritize providing opportunitie
 
 <span style="font-size:.9em;">**Barriers to Racial Residential Integration**</span>
 <br/>
-<span style="font-size:.9em; margin-top: -5px;">With [Valentine Gilbert](https://valentinegilbert.github.io/).</span>
+<span style="font-size:.9em; margin-top: -5px;">With [Valentine Gilbert](https://valentinegilbert.github.io/). 2024.</span>
 <br/>
 
 <span style="font-size:1.2em;">**Publications**</span>
