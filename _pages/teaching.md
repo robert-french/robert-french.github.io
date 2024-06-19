@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
  
-<span style="font-size: .9em; display: inline-block;">**Harvard Kennedy School**</span><br/>
-<span style="font-size: .9em; line-height: 2;">*PhD Micro Theory I*</span><br/>
+<span style="font-size: .9em; line-height: 2;">**Harvard Kennedy School**</span><br/>
+<span style="font-size: .9em;">*PhD Micro Theory I*</span><br/>
 <span style="font-size: .9em;">Head Teaching Fellow (Fall 2021)</span>
 
 <span style ="font-size:.9em;">*PhD Micro Theory II*</span>  
