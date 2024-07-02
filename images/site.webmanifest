@@ -3,13 +3,13 @@
     "short_name": "",
     "icons": [
         {
-            "src": "/UofC-192x244.png",
-            "sizes": "192x244",
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/UofC-384x487.png",
-            "sizes": "384x487",
+            "src": "/android-chrome-384x384.png",
+            "sizes": "384x384",
             "type": "image/png"
         }
     ],
