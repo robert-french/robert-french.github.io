@@ -37,7 +37,7 @@ This paper considers when policy makers should prioritize providing opportunitie
   <br><br/>
 </div>
 
-<span style="font-size:.9em;">**Barriers to Racial Residential Integration**</span>
+<span style="font-size:.9em;">**Social Moving Costs, Endogenous Preferences, and Neighborhood Sorting**</span>
 <br/>
 <span style="font-size:.9em; margin-top: -5px;">With [Valentine Gilbert](https://valentinegilbert.github.io/). 2024.</span>
 <br/>
