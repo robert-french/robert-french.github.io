@@ -19,7 +19,7 @@ How does gentrification affect the welfare of incumbent residents of low-income 
 
 <span style="font-size:.9em; margin-top: 2px;">**[Suburban Housing and Urban Affordability: Evidence from Residential Vacancy Chains](https://valentinegilbert.github.io/files/gilbert_jmp.pdf)**</span>
 <br/>
-<span style="font-size:.9em; margin-top: -5px;">With [Valentine Gilbert](https://valentinegilbert.github.io/). 2023. Awarded *Best Junior Paper Submitted for the 2024 AREUEA National Conference*.</span>
+<span style="font-size:.9em; margin-top: -5px;">With [Valentine Gilbert](https://valentinegilbert.github.io/). 2023. Awarded *Best Junior Paper Submitted for the 2024 AREUEA National Conference*. <span style="color:#2563EB; font-weight:600;">Revision in progress.</span></span>
 <br/>
 
 <div style="font-size: .9em; line-height: 1.4;">
@@ -27,9 +27,9 @@ This paper investigates the role that residential vacancy chains – the sequenc
   <br><br/>
 </div>
 
-<span style="font-size:.9em;">**Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston**</span>
+<span style="font-size:.9em;">**Schools or Suitcases? Optimal Urban Policy and Economic Opportunity in Greater Boston** 
 <br/>
-<span style="font-size:.9em; margin-top: -5px;">2023.</span>
+<span style="font-size:.9em; margin-top: -5px;">2023.</span> <span style="color:#2563EB; font-weight:600;">Revision in progress.</span></span>
 <br/>
 
 <div style="font-size: .9em; line-height: 1.4;">
@@ -37,9 +37,15 @@ This paper considers when policy makers should prioritize providing opportunitie
   <br><br/>
 </div>
 
-<span style="font-size:.9em;">**Social Moving Costs, Endogenous Preferences, and Neighborhood Sorting**</span>
+<span style="font-size:.9em;">**Taxed Out or Cashing In? Property Taxes, Home Values, and Homeowner Decisions in Gentrifying
+Neighborhoods**</span>
 <br/>
-<span style="font-size:.9em; margin-top: -5px;">With [Valentine Gilbert](https://valentinegilbert.github.io/). 2024.</span>
+<span style="font-size:.9em; margin-top: -5px;">With [Christopher Berry](https://sites.google.com/site/berryresearchpage/home) and [Ashvin Gandhi](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/gandhi). </span>
+<br/>
+
+<span style="font-size:.9em;">**Constructing Precise Sociodemographic Tract Aggregates with Census Microdata**</span>
+<br/>
+<span style="font-size:.9em; margin-top: -5px;">With [Ashvin Gandhi](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/gandhi). </span>
 <br/>
 
 <span style="font-size:1.4em;">**Publications**</span>
