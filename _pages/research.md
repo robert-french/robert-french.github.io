@@ -7,14 +7,9 @@ author_profile: true
 
 <span style="font-size:1.4em;">**Working Papers and Work in Progress**</span>
 
-<span style="color:#1d4ed8;"><strong>
-Quantifying the Welfare Impacts of Gentrification on Incumbent Renters (Job Market Paper)
-</strong></span>
-
 <span style="font-size:.9em;">**Quantifying the Welfare Impacts of Gentrification on Incumbent Renters (Job Market Paper)**</span>
-
 <br/>
-<span style="font-size:.9em; margin-top: -5px;">With [Ashvin Gandhi](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/gandhi) and [Valentine Gilbert](https://valentinegilbert.github.io/). 2023. Awarded *Best Paper on Housing by a Doctoral Student*, Joint Center for Housing Studies.</span>
+<span style="font-size:.9em; margin-top: -5px;">With [Ashvin Gandhi](https://www.anderson.ucla.edu/faculty-and-research/strategy/faculty/gandhi) and [Valentine Gilbert](https://valentinegilbert.github.io/). 2023. Awarded *Best Paper on Housing by a Doctoral Student*, Joint Center for Housing Studies. <span style="color:#2563EB; font-weight:600;">Revised draft coming very soon.</span></span>
 <br/>
 
 <div style="font-size: .9em; line-height: 1.4;">
