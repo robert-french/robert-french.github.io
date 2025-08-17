@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <span style="font-size: .9em; line-height: 2.5;">**Loyola Marymount University**</span><br/>
-<span style="font-size: .9em;">*Econometrics*, Instructor (Fall 2025)</span>  
+<span style="font-size: .9em;">*Introduction to Econometrics*, Instructor (Fall 2025)</span>  
  
 <span style="font-size: .9em; line-height: 2.5;">**Harvard Kennedy School**</span><br/>
 <span style="font-size: .9em;">*PhD Micro Theory I*, Head Teaching Fellow (Fall 2021)</span>  
