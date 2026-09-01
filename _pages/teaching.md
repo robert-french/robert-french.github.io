@@ -16,7 +16,7 @@ show_title: false
 ## Teaching
 
 <span style="font-size: .9em; line-height: 2.5;">**Loyola Marymount University**</span><br/>
-<span style="font-size: .9em;">*Introduction to Econometrics*, Instructor (AY 2025–2026, Fall 2026)</span>  
+<span style="font-size: .9em;"><a href="https://robert-french.github.io/Econometrics" target="_blank" rel="noopener noreferrer">*Introduction to Econometrics*</a>, Instructor (AY 2025–2026, Fall 2026)</span>  
 <span style="font-size: .9em;">*Computational Economics*, Instructor (Spring 2026)</span>  
 
 <span style="font-size: .9em; line-height: 2.5;">**Harvard Kennedy School**</span><br/>
