@@ -10,8 +10,8 @@ show_title: false
 
 ## Office Hours
 
-<span style="font-size: .9em;">*Drop-in office hours for ECON 3300*: Mondays, 5–7pm, UNH 4223.</span>  
-<span style="font-size: .9em;">*One-on-one office hours*: Fridays, 8–10am, UNH 4223 or Zoom, by appointment only. <a href="https://cal.com/robert-french-kfa0ol/one-on-one-office-hours" target="_blank" rel="noopener noreferrer">Sign up here</a>.</span>
+<span style="font-size: .9em;">*Drop-in office hours for ECON 3300*: Mondays, 5–7pm, UNH 4218.</span>  
+<span style="font-size: .9em;">*One-on-one office hours*: Fridays, 8–10am, UNH 4218 or Zoom, by appointment only. <a href="https://cal.com/robert-french-kfa0ol/one-on-one-office-hours" target="_blank" rel="noopener noreferrer">Sign up here</a>.</span>
 
 ## Teaching
 
