@@ -13,7 +13,7 @@ author_profile: true
 <br/>
 
 <div style="font-size: .9em; line-height: 1.4;">
-This paper investigates how gentrification affects the welfare of low-income incumbent renters. To do so, we construct an annual panel from US Census and IRS data tracking the earnings, workplaces, and residential addresses of over 3 million low-income urban renter households. We use this panel to conduct a comprehensive descriptive analysis and to estimate a dynamic structural model of residential and workplace choice. We find that, because low-income renters are highly mobile, the welfare effects of gentrification differ only modestly among renters initially living in different census tracts within the same metro area. Our results imply that whether an incumbent renter's neighborhood gentrified matters less for welfare than which US metro area they lived in.
+This paper investigates how gentrification affects the welfare of low-income incumbent renters. To do so, we construct an annual panel from US Census and IRS data tracking the earnings, workplaces, and residential addresses of over 3 million low-income urban renter households. We use this panel to conduct a comprehensive descriptive analysis and to estimate a dynamic structural model of residential and workplace choice. We find that, because low-income renters are highly mobile, the welfare effects of gentrification differ only modestly among renters initially living in different census tracts within the same metro area. Our findings shift attention beyond changes in incumbent renters' initial neighborhoods to the metropolitan area choice sets that shape their welfare.
   <br><br/>
 </div>
 
@@ -37,7 +37,7 @@ This paper considers when policy makers should prioritize providing opportunitie
   <br><br/>
 </div>
 
-<span style="font-size:.9em;">**Inequality in Effective Tax Rates Across the Property Value Distribution**</span>
+<span style="font-size:.9em;">**House Price Dynamics and Property Tax Inequity**</span>
 <br/>
 <span style="font-size:.9em; margin-top: -5px;">With [Christopher Berry](https://sites.google.com/site/berryresearchpage/home), [Guangbin Hong](https://www.guangbinhong.com/), and [Eric Langowski](https://erhla.github.io/). <span style="color:#2563EB; font-weight:600;">Draft coming soon.</span></span>
 <br/>
