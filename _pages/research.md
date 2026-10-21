@@ -13,7 +13,7 @@ author_profile: true
 <br/>
 
 <div style="font-size: .9em; line-height: 1.4;">
-This paper investigates how gentrification affects the welfare of low-income incumbent renters. To do so, we construct an annual panel from US Census and IRS data tracking the earnings, workplaces, and residential addresses of over 3 million low-income urban renter households. We use this panel to conduct a comprehensive descriptive analysis and to estimate a dynamic structural model of residential and workplace choice. We find that, because low-income renters are highly mobile, the welfare effects of gentrification differ only modestly among renters initially living in different census tracts within the same metro area. Our findings shift attention beyond changes in incumbent renters' initial neighborhoods to the metropolitan area choice sets that shape their welfare.
+This paper investigates how gentrification affects the welfare of low-income incumbent renters. To do so, we construct an annual panel from US Census and IRS data tracking the earnings, workplaces, and residential addresses of over 3 million low-income urban renter households. We use this panel to conduct a comprehensive descriptive analysis and to estimate a dynamic structural model of residential and workplace choice. We find that, because low-income renters are highly mobile, the welfare effects of gentrification differ only modestly among renters initially living in different census tracts within the same metropolitan area. Our findings shift attention beyond changes in incumbent renters' initial neighborhoods to the metropolitan area choice sets that shape their welfare.
   <br><br/>
 </div>
 
